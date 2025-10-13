@@ -1,1 +1,11 @@
-**/.DS_Store
+node_modules
+dist
+dist-ssr
+*.local
+count.txt
+.DS_Store
+.env
+.nitro
+.tanstack
+.output
+.vinxi

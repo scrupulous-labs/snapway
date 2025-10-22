@@ -1,0 +1,15 @@
+{
+  "name": "@snapway/editor",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts|tsx"
+  },
+  "dependencies": {
+    "react": "^19.2.0"
+  },
+  "devDependencies": {
+    "@snapway/tsconfig": "workspace:*",
+    "@types/react": "^19.2.2"
+  }
+}

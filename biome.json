@@ -15,11 +15,6 @@
 		"enabled": true,
 		"indentStyle": "space"
 	},
-	"javascript": {
-		"formatter": {
-			"quoteStyle": "double"
-		}
-	},
 	"linter": {
 		"enabled": true,
 		"rules": {

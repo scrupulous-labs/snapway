@@ -3,10 +3,12 @@
   "type": "module",
   "private": true,
   "exports": {
-    "./*": "./src/*.ts|tsx"
+    ".": "./src/index.tsx"
   },
   "dependencies": {
-    "react": "^19.2.0"
+    "react": "^19.2.0",
+    "slate": "^0.118.1",
+    "slate-react": "^0.117.4"
   },
   "devDependencies": {
     "@snapway/tsconfig": "workspace:*",

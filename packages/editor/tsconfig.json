@@ -1,4 +1,4 @@
 {
-  "extends": "@snapway/tsconfig/base_react.json",
+  "extends": "@snapway/tsconfig/base.json",
   "include": ["src/**/*.ts", "src/**/*.tsx"]
 }
